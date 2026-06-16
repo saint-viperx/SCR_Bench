@@ -1,3 +1,10 @@
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://huggingface.co/datasets/kyle-X1e/SCR-Bench"><img src="https://img.shields.io/badge/🤗 HuggingFace-Dataset-purple?logo=" alt="static-leaderboard" /></a>
+  <a href="https://arxiv.org/abs/2606.15242"><img src="https://img.shields.io/badge/ArXiv-Paper-red?logo=arxiv" alt="static-leaderboard" /></a>
+  <a href="https://huggingface.co/spaces/kyle-X1e/SCR-Bench-Leaderboard"><img src="https://img.shields.io/badge/🏆 HuggingFace-LeaderBoard-yellow" alt="static-leaderboard" /></a>
+</div>
+
+
 # SCR-Bench: Skill Composition Risk Benchmark
 
 **SCR-Bench** (Skill Composition Risk Bench) is a benchmark for evaluating security risks that emerge when individually benign skills are composed into agent workflows. In isolation, each skill appears safe, but harmful outcomes can arise along activated composition paths through capability flow, trust transfer, or authorization confusion.
