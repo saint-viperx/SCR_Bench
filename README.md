@@ -1,4 +1,7 @@
-<div align="center"># Benign in Isolation, Harmful in Composition: Security Risks in Agent Skill Ecosystems</div>
+<div align="center">
+# Benign in Isolation, Harmful in Composition: Security Risks in Agent Skill Ecosystems
+</div>
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"; align="center">
   <p>
     <a href="https://huggingface.co/datasets/kyle-X1e/SCR-Bench"><img src="https://img.shields.io/badge/🤗 HuggingFace-Dataset-purple?logo=" alt="static-leaderboard" /></a>
