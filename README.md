@@ -1,9 +1,10 @@
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://huggingface.co/datasets/kyle-X1e/SCR-Bench"><img src="https://img.shields.io/badge/🤗 HuggingFace-Dataset-purple?logo=" alt="static-leaderboard" /></a>
-  <a href="https://arxiv.org/abs/2606.15242"><img src="https://img.shields.io/badge/ArXiv-Paper-red?logo=arxiv" alt="static-leaderboard" /></a>
-  <a href="https://huggingface.co/spaces/kyle-X1e/SCR-Bench-Leaderboard"><img src="https://img.shields.io/badge/🏆 HuggingFace-LeaderBoard-yellow" alt="static-leaderboard" /></a>
-</div>
-
+<p>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://huggingface.co/datasets/kyle-X1e/SCR-Bench"><img src="https://img.shields.io/badge/🤗 HuggingFace-Dataset-purple?logo=" alt="static-leaderboard" /></a>
+    <a href="https://arxiv.org/abs/2606.15242"><img src="https://img.shields.io/badge/ArXiv-Paper-red?logo=arxiv" alt="static-leaderboard" /></a>
+    <a href="https://huggingface.co/spaces/kyle-X1e/SCR-Bench-Leaderboard"><img src="https://img.shields.io/badge/🏆 HuggingFace-LeaderBoard-yellow" alt="static-leaderboard" /></a>
+  </div>
+</p>
 
 # SCR-Bench: Skill Composition Risk Benchmark
 
