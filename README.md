@@ -1,5 +1,5 @@
 <div align="center">
-# Benign in Isolation, Harmful in Composition: Security Risks in Agent Skill Ecosystems
+<a># Benign in Isolation, Harmful in Composition: Security Risks in Agent Skill Ecosystems</a>
 </div>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"; align="center">
